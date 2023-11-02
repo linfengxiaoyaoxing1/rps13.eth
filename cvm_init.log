@@ -1,0 +1,61 @@
+ 驱动器 C 中的卷没有标签。
+ 卷的序列号是 C0BD-67B7
+
+ C:\qcloud_init 的目录
+
+2022/11/01  10:20    <DIR>          .
+2022/11/01  10:20    <DIR>          basic_windows_install_1.0.35
+2022/11/01  10:16             2,135 cvm_init.bat
+2022/11/01  10:16               155 install_basic.bat
+2022/11/01  10:16               138 install_stargate.bat
+2022/11/01  10:16               138 install_ydeyes.bat
+2022/11/01  10:16                24 instance_id
+2022/11/01  10:16                23 qcloud_init.conf
+2022/11/01  10:16                74 qcloud_init.ini
+2022/11/01  10:16             4,770 qcloud_init.ps1
+2022/11/01  10:20    <DIR>          stargate_windows_install_1.5.1
+2022/11/01  10:20    <DIR>          ydeyes_windows_install_2018530
+               8 个文件          7,457 字节
+               4 个目录 27,776,323,584 可用字节
+ 驱动器 C 中的卷没有标签。
+ 卷的序列号是 C0BD-67B7
+
+ C:\qcloud_init 的目录
+
+2023/02/02  10:48    <DIR>          .
+2023/02/02  10:48    <DIR>          basic_windows_install_1.0.35
+2023/02/02  10:46             2,236 cvm_init.bat
+2023/02/02  10:46               153 install_basic.bat
+2023/02/02  10:46               138 install_stargate.bat
+2023/02/02  10:46               140 install_tat.bat
+2023/02/02  10:46               138 install_ydeyes.bat
+2023/02/02  10:46                24 instance_id
+2023/02/02  10:46                23 qcloud_init.conf
+2023/02/02  10:46                74 qcloud_init.ini
+2023/02/02  10:46             4,770 qcloud_init.ps1
+2023/02/02  10:48    <DIR>          stargate_windows_install_1.5.1
+2023/02/02  10:48    <DIR>          tat_agent_windows_install_0.1.31
+2023/02/02  10:48    <DIR>          ydeyes_windows_install_2018530
+               9 个文件          7,696 字节
+               5 个目录 27,569,487,872 可用字节
+ 驱动器 C 中的卷没有标签。
+ 卷的序列号是 C0BD-67B7
+
+ C:\qcloud_init 的目录
+
+2023/11/03  00:51    <DIR>          .
+2023/11/03  00:51    <DIR>          basic_windows_install_1.0.35
+2023/11/03  00:48             2,297 cvm_init.bat
+2023/11/03  00:48               153 install_basic.bat
+2023/11/03  00:48               138 install_stargate.bat
+2023/11/03  00:48               139 install_tat.bat
+2023/11/03  00:48               140 install_ydeyes.bat
+2023/11/03  00:48                24 instance_id
+2023/11/03  00:48                23 qcloud_init.conf
+2023/11/03  00:48                74 qcloud_init.ini
+2023/11/03  00:48             4,770 qcloud_init.ps1
+2023/11/03  00:51    <DIR>          stargate_windows_install_1.5.1
+2023/11/03  00:51    <DIR>          tat_agent_windows_install_1.0.5
+2023/11/03  00:51    <DIR>          ydeyes_windows_install_1.2.0.156
+               9 个文件          7,758 字节
+               5 个目录 48,105,250,816 可用字节
